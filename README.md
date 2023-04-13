@@ -9,7 +9,11 @@
 
 ### 使用方法
 
-1. #### 使用右键菜单
+1. #### 直接点击插件
+
+   ![popup](img\popup.png)
+
+2. #### 使用右键菜单
 
 ​		右键非视频区域，会有一个`Tiktok Downloader`的选项，点击之后会在一个新标签页中打开无水印的视频，自行保存即可。
 
@@ -23,7 +27,7 @@
 
    Chrome/Edge用户: `CORS Unblock` [CORS Unblock | Chrome扩展 - Crx搜搜 (crxsoso.com)](https://www.crxsoso.com/webstore/detail/lfhmikememgdcahcdlaciloancbhjino)
 
-   打开之后就可以直接点击页面上的`无水印下载`按钮下载
+   打开CORS插件之后就可以直接点击页面上的`无水印下载`按钮下载
 
    ![douyin.png](img/douyin.png)
 
