@@ -4,9 +4,10 @@
 ### 安装
 
 在`release`页面下载crx文件，如果不能使用，直接下载zip文件解压后，然后直接把整个文件夹拖到浏览器里（注意要打开开发者模式）
-下载地址：[release](https://github.com/fangyuan99/Tiktok-Downloader/releases)
 
-可以参考这篇文章：[Chrome插件安装教程 (详细版) - 知乎](https://zhuanlan.zhihu.com/p/107949967)
+[下载地址](https://github.com/fangyuan99/Tiktok-Downloader/releases)
+
+如果还是不会安装插件可以参考这篇文章：[Chrome插件安装教程 (详细版) - 知乎](https://zhuanlan.zhihu.com/p/107949967)
 
 ### 使用方法
 
