@@ -29,6 +29,12 @@
 
    ![tiktok.png](img/tiktok.png)
 
+#### 如果本插件对你有用的话，可以关注一下我的抖音
+
+![me1.png](img/me1.png)
+
+![me2.png](img/me2.png)
+
 ### 用到的api及教程
 
 [Evil0ctal/Douyin_TikTok_Download_API: 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音|TikTok数据爬取工具，支持API调用，在线批量解析及下载。](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
