@@ -11,7 +11,7 @@
 
 1. #### 直接点击插件
 
-   ![popup](img\popup.png)
+   ![popup](img/popup.png)
 
 2. #### 使用右键菜单
 
