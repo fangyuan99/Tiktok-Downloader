@@ -1,0 +1,29 @@
+{
+  "name": "Tiktok Downloader",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "description": "An extension for downloading douyin or tiktok videos without watermark.",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["contextMenus", "tabs"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.tiktok.com/*/video/*", "*://www.douyin.com/video/*"],
+      "js": ["js/index.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "icons": {
+    "16": "images/tiktok.png",
+    "32": "images/tiktok.png",
+    "48": "images/tiktok.png"
+  },
+  "host_permissions": [
+    "*://www.tiktok.com/*/video/*",
+    "*://www.douyin.com/video/*",
+    "*://api.douyin.wtf/*"
+  ]
+}
